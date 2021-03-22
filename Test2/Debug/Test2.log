@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\조범수\source\repos\practice\test2\main.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Test2.vcxproj -> C:\Users\조범수\source\repos\practice\Debug\Test2.exe

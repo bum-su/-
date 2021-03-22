@@ -1,0 +1,3 @@
+﻿  BFS.cpp
+c:\users\조범수\source\repos\practice\bfs\bfs.cpp(21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BFS.vcxproj -> C:\Users\조범수\source\repos\practice\Debug\BFS.exe

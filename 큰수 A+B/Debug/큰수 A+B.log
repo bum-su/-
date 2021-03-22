@@ -1,0 +1,4 @@
+﻿  10757.cpp
+c:\users\조범수\source\repos\practice\큰수 a+b\10757.cpp(35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\조범수\source\repos\practice\큰수 a+b\10757.cpp(40): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  큰수 A+B.vcxproj -> C:\Users\조범수\source\repos\practice\Debug\큰수 A+B.exe
